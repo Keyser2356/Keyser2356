@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <b>Frontend</b>  ·  React · HTML · CSS
+  <b>Frontend</b>  ·  Astro · React · HTML · CSS
 </p>
 
 <p align="center">
