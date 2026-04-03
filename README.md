@@ -34,5 +34,5 @@
 <br>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@keyser_twink?theme=gelbooru" width="65%"/>
+  <img src="https://count.getloli.com/get/@Keyser2356?theme=original-old" width="65%"/>
 </p>
