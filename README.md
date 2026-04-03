@@ -1,38 +1,35 @@
-<h1 align="center">keyser</h1>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="55px">
+</div>
 
-<p align="center">
-  <i>Delay Error 1573</i><br>
-  <b>Yalta, Russia</b>
-</p>
+<div align="center">
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=100&size=36&pause=1100&color=F7F7F7&width=580&center=true&lines=Hi+there%2C+I'm+Keyser." alt="Typing SVG" />
+    </a>
+  </h1>
+</div>
 
-<p align="center">
-  <code>// last update: 12.03.2026</code>
-</p>
+<div align="center">
+  <samp>
+    Let me introduce myself, I'm Keyser.
 
-<br>
+    I am a versatile developer with a deep passion for all aspects of software.
+    I am developing more and more with new ideas and new projects every day.
+  </samp>
+</div>
 
-<p align="center">
-  <b>I've worked with:</b>
-</p>
-
-<p align="center">
-  <b>Frontend</b>  ·  Astro · React · HTML · CSS
-</p>
-
-<p align="center">
-  <b>Languages</b>  ·  Java · Python · JavaScript
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://t.me/keyser_twink">
+<div align="center">
+  <a href="https://t.me/keyser_twink" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</p>
+  <a href="https://keyser-bio.su/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+  </a>
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Keyser2356?theme=original-old" width="65%"/>
+  <img src="https://count.getloli.com/@Keyser2356?theme=rule34" width="65%"/>
 </p>
