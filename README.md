@@ -23,9 +23,6 @@
   <a href="https://t.me/keyser_twink" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://keyser-bio.su/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-  </a>
 </div>
 
 <br>
