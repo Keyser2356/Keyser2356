@@ -23,6 +23,8 @@
   <a href="https://t.me/keyser_twink" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://wakatime.com/@f1dbcae5-3edf-4b45-9915-6ff0156a0701">
+    <img src="https://wakatime.com/badge/user/f1dbcae5-3edf-4b45-9915-6ff0156a0701.svg" alt="Total time coded since May 26 2025" /></a>
 </div>
 
 <br>
